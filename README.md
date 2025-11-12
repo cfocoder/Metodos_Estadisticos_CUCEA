@@ -48,9 +48,9 @@ Este curso te proporcionará las herramientas fundamentales para evaluar afirmac
 ## 🛠️ Herramientas Utilizadas
 
 El curso utiliza **Python** como herramienta principal de análisis, específicamente:
-- **Jupyter Notebooks** para desarrollo interactivo
-- **Distribución Anaconda** como entorno de trabajo
-- Librerías especializadas en análisis estadístico
+- **Jupyter Notebooks** para desarrollo interactivo.
+- **Distribución Anaconda** como entorno de trabajo.
+- Librerías especializadas en análisis estadístico.
 
 ## 📁 Estructura del Repositorio
 
